@@ -1,0 +1,2 @@
+STORY:
+The quick brown fox jumps over the lazy dog. He is a nice fox and a not nice dog.
